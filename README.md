@@ -5,8 +5,7 @@
 # WooCommerce App: Label StoreMax
 
 ### Label StoreMax
-
-
+    
 [Official WooSignal WooCommerce App](https://woosignal.com)
 
 ![alt text](https://woosignal.com/images/woocommerce_app_preview_2.png "WooCommerce app checkout experience")
